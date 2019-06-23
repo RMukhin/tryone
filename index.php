@@ -10,5 +10,8 @@
 <body>
     <h1>Hello</h1>
     <p>today is <?= date('d-M-Y'); ?></p>
+    <footer>
+        <p>here we are</p>
+    </footer>
 </body>
 </html>
